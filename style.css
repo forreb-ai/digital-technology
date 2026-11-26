@@ -3,7 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* =================================
+   DEVELOPMENT BANNER
+================================= */
+.development-banner {
 
+    background:
+        linear-gradient(
+            135deg,
+            #8B5CF6,
+            #14B8A6
+        );
+
+    color: white;
+
+    text-align: center;
+
+    padding: 10px 20px;
+
+    font-size: 0.9rem;
+
+    font-weight: 600;
+
+    letter-spacing: 0.4px;
+
+    box-shadow:
+        0 3px 10px rgba(139,92,246,0.15);
+}
 /* =================================
    BODY
 ================================= */
